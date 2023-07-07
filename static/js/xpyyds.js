@@ -1,6 +1,6 @@
 var link = "hmkj";
 var wx_qq = false;
-var version_ = 'QQ310411965';
+var version_ = 'QQ1968296962';
 function _0x3bac(_0x3fa75e, _0x32dc2b) {
     var _0x40fc55 = _0x1640();
     return _0x3bac = function(_0x2d01e6, _0x5aa0cd) {
